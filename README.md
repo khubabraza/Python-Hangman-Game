@@ -33,3 +33,16 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/khubabraza/Python-Hangman-Game.git
+```
+
+Open the project folder:
+
+```bash
+cd Python-Hangman-Game
+```
+
+Run the game:
+
+```bash
+python hangman.py
+```
